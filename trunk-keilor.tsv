@@ -1,0 +1,2 @@
+"sysname"	"control_channel_list"	"offset"	"nac"	"modulation"	"tgid_tags_file"	"whitelist"	"blacklist"	"center_frequency"
+KEILOR-"MMR P25 on SDRPlay RSP2"	"421.3875"	"0"	"0x161"	"cqpsk"	"mmr_tgid_central.tsv"	""	"blacklist.tsv"	""
